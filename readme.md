@@ -4,7 +4,7 @@
 
 - Clonar el repositorio:
 
-  - `git clone http://github.com/` 
+  - `git clone https://github.com/Kerolink/EjerciciosPython.git` 
 
 - Crear y activar el entorno virtual:
 
